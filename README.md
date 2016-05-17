@@ -1,2 +1,4 @@
 # hello-world
-intro
+
+Hello
+i'm just following directions here. 
